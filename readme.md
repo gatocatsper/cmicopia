@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Find Catsper
 
-**Web:**   (url github.io)
+**Web:**   https://gatocatsper.github.io
 
 **Autor:**  Carlos García-Filoso González
 
