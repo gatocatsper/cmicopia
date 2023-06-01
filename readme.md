@@ -107,7 +107,7 @@ El juego suele pasar solo de un nivel a otro al navegar por las distintas pantal
 
 # 4. Conclusiones 
 
-Estoy muy contento con el resultado a nivel estético y de audio, sin embargo, podría mejorarse mucho a nivel jugable con más tiempo. Me gustaría introducir más niveles en distintos escenarios, añadiendo más música y modos de juego.
+Estoy contento con el resultado a nivel estético y de audio, sin embargo, podría mejorarse mucho a nivel jugable con más tiempo. Me gustaría introducir más niveles en distintos escenarios, añadiendo más música y modos de juego.
 
 
 
@@ -126,6 +126,7 @@ Estoy muy contento con el resultado a nivel estético y de audio, sin embargo, p
 - Audacity
 - Avidemux
 - Procreate
+- Logic Pro X
 
 
 
