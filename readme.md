@@ -66,22 +66,23 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
+**Investigación de campo**
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- Friday Night Funkin https://www.newgrounds.com/portal/view/770371
+- WarioWare, Nintendo e Intelligent Systems
+- Splatoon, Nintendo
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este proyecto me ha resultado de especial interés por explorar el arte más allá del ámbito estético, para hacerlo interactivo. Me motiva la forma en la que se pueden cambinar el dibujo o la ilustración, con el audio, el vídeo y la animación. 
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a todos los públicos
 
 
 
@@ -89,53 +90,45 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
+- Video
+- Audio 
 - Menús y elementos de navegación (botones)
-- etc.
+- Galería de Imágenes
+- Créditos
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
+El juego suele pasar solo de un nivel a otro al navegar por las distintas pantallas del escenario. No he podido solucionarlo pues el programa no lo identifica como un error o problema.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Estoy muy contento con el resultado a nivel estético y de audio, sin embargo, podría mejorarse mucho a nivel jugable con más tiempo. Me gustaría introducir más niveles en distintos escenarios, añadiendo más música y modos de juego.
 
 
 
 
 
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Realizada expresamente para el juego por Diego García-Filoso
+* Imágenes: Originales dibujadas por mí 
+* Tipografía: Comic Hunter, Action Comics
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Audacity
+- Avidemux
+- Procreate
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
+![image](https://github.com/gatocatsper/gatocatsper.github.io/assets/134587838/3ae30772-68c6-4b1e-b2cb-e652bc0357ea)
 
 Mayo 2023
