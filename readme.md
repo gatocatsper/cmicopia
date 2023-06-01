@@ -22,24 +22,19 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** tamaño fijo de 800x600px 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Windows, Mac
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 12,5MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 26/05/2023
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github
 
 # 2. Memoria del proyecto 
 
