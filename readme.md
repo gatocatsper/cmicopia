@@ -40,9 +40,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story1.JPG
-https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story2.JPG
-https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story3.JPG
+[Storyboard1](https://gatocatsper.github.io/medios/story1.JPG)
+[Storyboard2](https://gatocatsper.github.io/medios/story2.JPG)
+[Storyboard3](https://gatocatsper.github.io/medios/story3.JPG)
 
 
 
@@ -50,7 +50,7 @@ https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story3.JPG
 
 
 
-https://github.com/gatocatsper/gatocatsper.github.io/blob/master/esquema.JPG
+[Esquema](https://gatocatsper.github.io/medios/esquema.JPG)
 
 
 
