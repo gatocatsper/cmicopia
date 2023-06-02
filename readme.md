@@ -18,9 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** :
 
-(insertar imágenes a resolucion de 100px alto)
+https://github.com/gatocatsper/gatocatsper.github.io/blob/master/catslogo.PNG
 
 **Resolución:** tamaño fijo de 800x600px 
 
@@ -32,7 +32,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Fecha** : 26/05/2023
 
-**Medios** (donde se tiene presencia relacionada):
+**Medios**:
 
 - Github
 
@@ -40,9 +40,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story1.JPG
+https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story2.JPG
+https://github.com/gatocatsper/gatocatsper.github.io/blob/master/story3.JPG
 
 
 
@@ -50,7 +50,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+https://github.com/gatocatsper/gatocatsper.github.io/blob/master/esquema.JPG
 
 
 
