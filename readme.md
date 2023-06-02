@@ -20,7 +20,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** :
 
-[logo](https://github.com/gatocatsper/gatocatsper.github.io/blob/master/catslogo.PNG)
+[logo](https://gatocatsper.github.io/medios/IMG_1929.png)
 
 **Resolución:** tamaño fijo de 800x600px 
 
